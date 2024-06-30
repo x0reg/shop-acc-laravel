@@ -533,4 +533,124 @@
             </div>
         </div>
     </div>
+    <div class="section-gap">
+        <div class="container">
+            <div class="description text-center mb-4">
+                <h1 class="custom-heading">VÒNG QUAY MAY MẮN</h1>
+            </div>
+            <div class="row row10 rowmb5">
+                <div class="col-xl-3 col-lg-3 col-6">
+                    <div class="nick-card card">
+                        <div class="card-header border-0 rounded-0 p-0 bg-transparent position-relative">
+                            <a href="/recharge/hsnr">
+                                <img src="https://gametudong.com/storage/images/36/65ac2283335d5_HSNR.png" alt="">
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">
+                                <a href="/recharge/hsnr">
+                                    Bán vàng Hồi Sinh Ngọc Rồng
+                                </a>
+                            </div>
+                            <div class="card-meta">
+                                <div class="card-meta_item">
+                                    Lượt mua: 5743
+                                </div>
+                            </div>
+                            <div class="card-button text-center mt-3">
+                                <a href="/recharge/hsnr">
+                                    <img src="https://gametudong.com/assets/default/images/nick/xem-tat-ca.gif"
+                                        alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-6">
+                    <div class="nick-card card">
+                        <div class="card-header border-0 rounded-0 p-0 bg-transparent position-relative">
+                            <a href="/recharge/san-dt-mabu">
+                                <img src="https://gametudong.com/storage/images/36/65ad47a381a38_DETUFIX.png"
+                                    alt="">
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">
+                                <a href="/recharge/san-dt-mabu">
+                                    Săn đệ tử MaBư
+                                </a>
+                            </div>
+                            <div class="card-meta">
+                                <div class="card-meta_item">
+                                    Lượt thuê: 91723
+                                </div>
+                            </div>
+                            <div class="card-button text-center mt-3">
+                                <a href="/recharge/san-dt-mabu">
+                                    <img src="https://gametudong.com/assets/default/images/nick/xem-tat-ca.gif"
+                                        alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-6">
+                    <div class="nick-card card">
+                        <div class="card-header border-0 rounded-0 p-0 bg-transparent position-relative">
+                            <a href="/recharge/san-dt-mabu">
+                                <img src="https://gametudong.com/storage/images/36/65ad47a381a38_DETUFIX.png"
+                                    alt="">
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">
+                                <a href="/recharge/san-dt-mabu">
+                                    Săn đệ tử MaBư
+                                </a>
+                            </div>
+                            <div class="card-meta">
+                                <div class="card-meta_item">
+                                    Lượt thuê: 91723
+                                </div>
+                            </div>
+                            <div class="card-button text-center mt-3">
+                                <a href="/recharge/san-dt-mabu">
+                                    <img src="https://gametudong.com/assets/default/images/nick/xem-tat-ca.gif"
+                                        alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-6">
+                    <div class="nick-card card">
+                        <div class="card-header border-0 rounded-0 p-0 bg-transparent position-relative">
+                            <a href="/recharge/nvthuehsnr">
+                                <img src="https://gametudong.com/storage/images/36/65ac94d727b33_LAMTHUENHIEMVU.png"
+                                    alt="">
+                            </a>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-title">
+                                <a href="/recharge/nvthuehsnr">
+                                    Làm nhiệm vụ Hồi Sinh Ngọc Rồng
+                                </a>
+                            </div>
+                            <div class="card-meta">
+                                <div class="card-meta_item">
+                                    Lượt thuê: 8125
+                                </div>
+                            </div>
+                            <div class="card-button text-center mt-3">
+                                <a href="/recharge/nvthuehsnr">
+                                    <img src="https://gametudong.com/assets/default/images/nick/xem-tat-ca.gif"
+                                        alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection

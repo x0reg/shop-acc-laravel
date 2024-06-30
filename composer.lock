@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eba04bbb24b3180d2a6614993a886c4b",
+    "content-hash": "fef1fcb5ee2d9e3b7eb9521ac98438c4",
     "packages": [
         {
             "name": "brick/math",
@@ -5681,6 +5681,43 @@
                 }
             ],
             "time": "2022-03-08T17:03:00+00:00"
+        },
+        {
+            "name": "wataridori/bias-random",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wataridori/bias-random.git",
+                "reference": "7b9b38db804a1071ccaa965d7a8e77faa4a461a3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wataridori/bias-random/zipball/7b9b38db804a1071ccaa965d7a8e77faa4a461a3",
+                "reference": "7b9b38db804a1071ccaa965d7a8e77faa4a461a3",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "wataridori\\BiasRandom\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Tran Duc Thang",
+                    "email": "thangtd90@gmail.com"
+                }
+            ],
+            "description": "Random element(s) with weight",
+            "support": {
+                "issues": "https://github.com/wataridori/bias-random/issues",
+                "source": "https://github.com/wataridori/bias-random/tree/master"
+            },
+            "time": "2015-03-18T12:28:12+00:00"
         },
         {
             "name": "webmozart/assert",
