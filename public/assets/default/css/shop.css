@@ -1,0 +1,21 @@
+ .social-login-buttons {
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+ }
+
+ .btn-google {
+     background-color: #DB4437;
+     color: white;
+ }
+
+ .btn-facebook {
+     background-color: #4267B2;
+     color: white;
+ }
+
+ .remember-forgot {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }

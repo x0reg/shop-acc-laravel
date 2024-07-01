@@ -33,6 +33,7 @@
     <link rel="stylesheet" href="{{ asset('assets/default/fonts/fontawesome-pro/css/all.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/default/plugins/fancybox/fancybox.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/default/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/default/css/shop.css') }}">
     <script type=" text/javascript" src="{{ asset('assets/default/plugins/jquery.min.js') }}"></script>
 </head>
 

@@ -16,8 +16,9 @@
     <script type="text/javascript" src="{{ asset('assets/default/plugins/swiper/swiper-bundle.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/default/plugins/fancybox/fancybox.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/default/js/app.js') }}"></script>
+
     @stack('js')
-    <script>
+    {{-- <script>
         $(document).ready(function() {
             $('#global-modal').modal('show');
         });
@@ -77,7 +78,7 @@
             </div>
 
         </div>
-    </div>
+    </div> --}}
 </body>
 
 </html>

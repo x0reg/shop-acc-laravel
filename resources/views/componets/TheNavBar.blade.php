@@ -20,65 +20,50 @@
                     </li>
 
                     <li>
-                        <a href="https://gametudong.com/nick-import">
-                            Nhập Nick
+                        <a href="{{ route('home.index') }}">
+                            Trang Chủ
                         </a>
                     </li>
                     <li>
-                        <a href="https://gametudong.com/deposit/card">
-                            Nạp thẻ
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://gametudong.com/wallet/deposit/vnd">
-                            Nạp ATM
+                        <a href="javascript:void()">
+                            Nạp Tiền
                         </a>
                     </li>
                     <li>
                         <a href="#">
-                            Rút
-                            <i class="fas fa-plus"></i>
+                            Dịch Vụ
                         </a>
-                        <ul class="list-unstyled mb-0">
-                            <li>
-                                <a href="https://gametudong.com/wallet/withdraw/vnd">Rút tiền</a>
-                            </li>
-                            <li>
-                                <a href="https://gametudong.com/card">Rút Card</a>
-                            </li>
-                        </ul>
                     </li>
                     <li>
                         <a href="#">
-                            Lịch sử
+                            Liên Hệ
                             <i class="fas fa-plus"></i>
                         </a>
                         <ul class="list-unstyled mb-0">
                             <li>
-                                <a href="https://gametudong.com/nick-game/history">Lịch sử mua nick</a>
+                                <a href="">Facebook</a>
                             </li>
                             <li>
-                                <a href="https://gametudong.com/history/softcard">Lịch sử mua thẻ</a>
+                                <a href="">Zalo</a>
                             </li>
                             <li>
-                                <a href="https://gametudong.com/wallet/history/vnd">Biến động số dư</a>
+                                <a href="">Telegram</a>
                             </li>
                         </ul>
                     </li>
+
                     <li>
                         <a href="https://gametudong.com/news/bai-ghim.html">
-                            BÀI GHIM
+                            Tin Tức
                         </a>
                     </li>
                 </ul>
-
-
             </div>
             <div class="header-users">
-                <a href="https://gametudong.com/customer/register" class="header-users_btn">
+                <a href="{{ route('form.register') }}" class="header-users_btn">
                     <i class="fas fa-user"></i> Đăng ký
                 </a>
-                <a href="https://gametudong.com/customer/login" class="header-users_btn">
+                <a href="{{ route('form.login') }}" class="header-users_btn">
                     <i class="fas fa-lock"></i> Đăng nhập
                 </a>
             </div>
